@@ -17,7 +17,7 @@ Various CLI tools or programs that I use
 
 
 
-## Terminal Tools/Commands
+## Applications
 | Name   | Config Location           | Description            |
 | ------ | ------------------------- | ---------------------- |
 | `nvim` | `~/.config/nvim/init.vim` | A more open-source vim |
