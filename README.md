@@ -22,4 +22,4 @@ Various CLI tools or programs that I use
 | -------- | ------------------------- | ------------------------------ |
 | `nvim`   | `~/.config/nvim/init.vim` | A more open-source vim         |
 | fish     | ~/.config/fish            | The Friendly Interactive Shell |
-| Obsidian | ~/Documents               | An advanced markdown editor|
+| Obsidian | ~/Documents               | An advanced markdown editor    |
